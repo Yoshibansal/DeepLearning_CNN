@@ -1,7 +1,5 @@
+/*@author:- Yoshi Bansal*/
 # Convolutional Neural Network
-
-# Installing Theano
-# pip install --upgrade --no-deps git+git://github.com/Theano/Theano.git
 
 # Installing Tensorflow
 # pip install tensorflow
@@ -84,7 +82,6 @@ else:
     prediction = 'Cat'
 print(prediction)
 
-print(classifier.accuracy())
 ###############################MODEL FINISHED##################################################
 
 # serialize model to JSON
@@ -134,26 +131,3 @@ print(prediction)
 
 #classifier.save('64x3-CNN.model')
 #classifier.save_weights("classifier2.h5")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
