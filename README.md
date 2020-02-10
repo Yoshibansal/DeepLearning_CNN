@@ -5,6 +5,7 @@ Using CNN(Convolutional Neural Network) model to classify between dog and cat.
 
 Step 1:- Download the dataset from the link given below:-
             "Link will be provided soon"
+            https://bennettu-my.sharepoint.com/:f:/g/personal/e19cse332_bennett_edu_in/EmIYaCExGI5MsGuw0F9dB-kBQgbv825u5yQbzV_iUmCL6w?e=ttcFzK
 
 Step 2:- Save it in a folder and name it as "deeplearning".
 
