@@ -33,6 +33,6 @@ Step 9:- Open Terminal(if mac user (command+space)) or command prompt and write 
 
 Step 10:- Come back to Spyder > CNNetwork.py and run code line by line (select the line and then press shift+enter).
 
-Congratulation your CNN model is now trained. For making new pridiction download the "cnn.py" file and you will get the code. Inside "cnn.py" file go to step3:- making new prediction and run the code written below it. You can change the address according to your need.
+Congratulation! Your CNN model is now trained. For making new pridiction download the "cnn.py" file and you will get the code. Inside "cnn.py" file go to step3:- making new prediction and run the code written below it. You can change the address according to your need.
 
 ENJOY!!!
