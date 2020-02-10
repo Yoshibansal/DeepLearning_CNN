@@ -1,3 +1,8 @@
+#if("Read the Readme file"==1):
+        #print("read it");
+#else:
+        #print("continue");
+#___________________________________________________________#
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
